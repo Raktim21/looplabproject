@@ -1,0 +1,31 @@
+body{
+    background: #333333;
+    color: #ffffff;
+}
+
+.navbar{
+    background-color: #292b2c;
+    border-bottom: 2px solid #008ed6;
+    opacity: 0.6;
+}
+
+#home-sec{
+    background: url(../img/home.jpg) no-repeat center top;
+    background-size: cover;
+    background-attachment:fixed ;
+    height: 700px; 
+}
+
+#home-sec .dark-overlay{
+
+    background: rgba(0, 0, 0, 0.692);
+    height: 700px;
+}
+
+#home-sec .home-inner{
+
+        padding-top: 150px;
+        padding-bottom: 50px; }
+}
+
+
